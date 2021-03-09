@@ -47,6 +47,8 @@ If you get stuck, then you can press REVEAL to show you the word.
 
 If you wish to restart, you can press RESET to get a new word.
 
+(WARNING: Pressing REVEAl and RESTART will reset your points! Use carefully!)
+
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
